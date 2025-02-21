@@ -1,0 +1,28 @@
+Open Visual Studio
+
+Open folder :
+		C:\Users\EVANS\Desktop\Evans_Mike_ML_Model\Evans_Mike
+
+>>>Go to tools
+
+>>>New terminal
+
+>>>Select command Prompt
+
+>>>Type python app.py
+ 
+to run the code
+
+>>>Open the link given
+
+
+Links
+
+
+GITHUB
+https://github.com/Tech-Trends-Shameer/Esp-8266-Projects/tree/main/Temperature-Data-Logger-in-Google-Spreadsheet
+
+
+
+YOUTUBE
+https://youtu.be/9AhBDbmOaNs?si=D4wUjuGH7ZmObeOZ
